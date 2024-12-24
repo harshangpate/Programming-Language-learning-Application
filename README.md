@@ -1,5 +1,6 @@
 # Project Title: LearnCodingApp: Your Interactive Coding Learning Companion
 ##**Project Description:**
+
 LearnCodingApp is an interactive and user-friendly mobile application for the novice programmer who wants to learn all the coding concepts in numerous programming languages. The app will focus on inclusivity and ease of learning with theoretical explanations, practical challenges, and coding problems in popular languages such as Java, Python, and C++.
 The app closes the gap that exists between theory and real application by making users master a sound basis in coding. LearnCodingApp intends to make accessible coding education to everyone starting from the beginners to those who have some intermediate skill, in the form of structured content and interactive experiences.
 
