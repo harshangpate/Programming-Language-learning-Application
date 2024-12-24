@@ -4,6 +4,7 @@ LearnCodingApp is an interactive and user-friendly mobile application for the no
 The app closes the gap that exists between theory and real application by making users master a sound basis in coding. LearnCodingApp intends to make accessible coding education to everyone starting from the beginners to those who have some intermediate skill, in the form of structured content and interactive experiences.
 
 ##**Problem Statement:**
+
 Nowadays, in the swiftly advancing landscape of technology, learning to code is a prime necessity. However, several challenges still exist for the user to gain proper learning about coding-
 1. Lack of Structured Learning: Most of the platforms do not have a structured path for learning so that new learners cannot step by step make progress.
 2. Limited Practice Opportunities: Users are unable to connect the theory with practice due to limited coding exercises and challenges. Language-Specific Needs: Beginners need resources tailored to the specific syntax and features of programming languages.
